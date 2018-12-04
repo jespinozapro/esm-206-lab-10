@@ -15,8 +15,10 @@ library(lubridate)
 library(janitor)
 library(corrplot)
 library(devtools)
+
 setRepositories(ind=1:2)
 devtools::install_github("GuangchuangYu/ggimage")
 devtools::install_github('thomasp85/gganimate')
 ```
+10
 
